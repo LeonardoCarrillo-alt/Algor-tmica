@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/leonardocarrillo/Documents/2do_parcial/pilas",
+      "program": "/Users/leonardocarrillo/Documents/2do_parcial/pilas/build/Debug/outDebug"
+    }
+  ]
+}
